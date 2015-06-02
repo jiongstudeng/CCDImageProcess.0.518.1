@@ -1,0 +1,77 @@
+C:\Users\Administrator\Desktop\新建文件夹\CCDImageProcess\CCDImageProcess\bin\Debug\CCDImageProcess.exe
+C:\Users\Administrator\Desktop\新建文件夹\CCDImageProcess\CCDImageProcess\bin\Debug\CCDImageProcess.pdb
+C:\Users\Administrator\Desktop\新建文件夹\CCDImageProcess\CCDImageProcess\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\新建文件夹\CCDImageProcess\CCDImageProcess\obj\x86\Debug\CCDImageProcess.Form1.resources
+C:\Users\Administrator\Desktop\新建文件夹\CCDImageProcess\CCDImageProcess\obj\x86\Debug\CCDImageProcess.Properties.Resources.resources
+C:\Users\Administrator\Desktop\新建文件夹\CCDImageProcess\CCDImageProcess\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\新建文件夹\CCDImageProcess\CCDImageProcess\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\新建文件夹\CCDImageProcess\CCDImageProcess\obj\x86\Debug\CCDImageProcess.exe
+C:\Users\Administrator\Desktop\新建文件夹\CCDImageProcess\CCDImageProcess\obj\x86\Debug\CCDImageProcess.pdb
+D:\原电脑硬盘\研一\2013视觉测量\新建文件夹\CCDImageProcess\CCDImageProcess\obj\x86\Debug\CCDImageProcess.exe
+D:\原电脑硬盘\研一\2013视觉测量\新建文件夹\CCDImageProcess\CCDImageProcess\obj\x86\Debug\CCDImageProcess.pdb
+D:\原电脑硬盘\研一\2013视觉测量\新建文件夹\CCDImageProcess\CCDImageProcess\bin\Debug\CCDImageProcess.exe
+D:\原电脑硬盘\研一\2013视觉测量\新建文件夹\CCDImageProcess\CCDImageProcess\bin\Debug\CCDImageProcess.pdb
+D:\原电脑硬盘\研一\2013视觉测量\新建文件夹\CCDImageProcess\CCDImageProcess\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\原电脑硬盘\研一\2013视觉测量\新建文件夹\CCDImageProcess\CCDImageProcess\obj\x86\Debug\CCDImageProcess.Form1.resources
+D:\原电脑硬盘\研一\2013视觉测量\新建文件夹\CCDImageProcess\CCDImageProcess\obj\x86\Debug\CCDImageProcess.Properties.Resources.resources
+D:\原电脑硬盘\研一\2013视觉测量\新建文件夹\CCDImageProcess\CCDImageProcess\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\原电脑硬盘\研一\2013视觉测量\新建文件夹\CCDImageProcess\CCDImageProcess\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\原电脑硬盘\研一\2013视觉测量\新建文件夹\CCDImageProcess\CCDImageProcess\obj\x86\Debug\CCDImageProcess.ShowOriginalImage.resources
+D:\原电脑硬盘\研一\2013视觉测量\新建文件夹\CCDImageProcess\CCDImageProcess\obj\x86\Debug\CCDImageProcess.showProcessedImage.resources
+D:\原电脑硬盘\研一\2013视觉测量\新建文件夹\CCDImageProcess - 2.0\CCDImageProcess\obj\x86\Debug\CCDImageProcess.exe
+D:\原电脑硬盘\研一\2013视觉测量\新建文件夹\CCDImageProcess - 2.0\CCDImageProcess\obj\x86\Debug\CCDImageProcess.pdb
+D:\原电脑硬盘\研一\2013视觉测量\新建文件夹\CCDImageProcess - 2.0\CCDImageProcess\bin\Debug\CCDImageProcess.exe
+D:\原电脑硬盘\研一\2013视觉测量\新建文件夹\CCDImageProcess - 2.0\CCDImageProcess\bin\Debug\CCDImageProcess.pdb
+D:\原电脑硬盘\研一\2013视觉测量\新建文件夹\CCDImageProcess - 2.0\CCDImageProcess\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\原电脑硬盘\研一\2013视觉测量\新建文件夹\CCDImageProcess - 2.0\CCDImageProcess\obj\x86\Debug\CCDImageProcess.Form1.resources
+D:\原电脑硬盘\研一\2013视觉测量\新建文件夹\CCDImageProcess - 2.0\CCDImageProcess\obj\x86\Debug\CCDImageProcess.Properties.Resources.resources
+D:\原电脑硬盘\研一\2013视觉测量\新建文件夹\CCDImageProcess - 2.0\CCDImageProcess\obj\x86\Debug\CCDImageProcess.ShowOriginalImage.resources
+D:\原电脑硬盘\研一\2013视觉测量\新建文件夹\CCDImageProcess - 2.0\CCDImageProcess\obj\x86\Debug\CCDImageProcess.ShowProcessedImage.resources
+D:\原电脑硬盘\研一\2013视觉测量\新建文件夹\CCDImageProcess - 2.0\CCDImageProcess\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\原电脑硬盘\研一\2013视觉测量\新建文件夹\CCDImageProcess - 2.0\CCDImageProcess\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\原电脑硬盘\研一\2013视觉测量\测试\CCDImageProcess - 2.0\CCDImageProcess\obj\x86\Debug\CCDImageProcess.exe
+D:\原电脑硬盘\研一\2013视觉测量\测试\CCDImageProcess - 2.0\CCDImageProcess\obj\x86\Debug\CCDImageProcess.pdb
+D:\原电脑硬盘\研一\2013视觉测量\测试\CCDImageProcess - 2.0\CCDImageProcess\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\原电脑硬盘\研一\2013视觉测量\测试\CCDImageProcess - 2.0\CCDImageProcess\obj\x86\Debug\CCDImageProcess.Form1.resources
+D:\原电脑硬盘\研一\2013视觉测量\测试\CCDImageProcess - 2.0\CCDImageProcess\obj\x86\Debug\CCDImageProcess.Properties.Resources.resources
+D:\原电脑硬盘\研一\2013视觉测量\测试\CCDImageProcess - 2.0\CCDImageProcess\obj\x86\Debug\CCDImageProcess.ShowOriginalImage.resources
+D:\原电脑硬盘\研一\2013视觉测量\测试\CCDImageProcess - 2.0\CCDImageProcess\obj\x86\Debug\CCDImageProcess.ShowProcessedImage.resources
+D:\原电脑硬盘\研一\2013视觉测量\测试\CCDImageProcess - 2.0\CCDImageProcess\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\原电脑硬盘\研一\2013视觉测量\测试\CCDImageProcess - 2.0\CCDImageProcess\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\原电脑硬盘\研一\2013视觉测量\测试\CCDImageProcess - 2.0\CCDImageProcess\bin\Debug\CCDImageProcess.exe
+D:\原电脑硬盘\研一\2013视觉测量\测试\CCDImageProcess - 2.0\CCDImageProcess\bin\Debug\CCDImageProcess.pdb
+C:\Users\Administrator\Desktop\CCDImageProcess - 2.0\CCDImageProcess\obj\x86\Debug\CCDImageProcess.exe
+C:\Users\Administrator\Desktop\CCDImageProcess - 2.0\CCDImageProcess\obj\x86\Debug\CCDImageProcess.pdb
+D:\桌面\CCDImageProcess - 2.0\CCDImageProcess\obj\x86\Debug\CCDImageProcess.exe
+D:\桌面\CCDImageProcess - 2.0\CCDImageProcess\obj\x86\Debug\CCDImageProcess.pdb
+D:\桌面\CCDImageProcess - 2.0\CCDImageProcess\bin\Debug\CCDImageProcess.exe
+D:\桌面\CCDImageProcess - 2.0\CCDImageProcess\bin\Debug\CCDImageProcess.pdb
+D:\桌面\CCDImageProcess - 2.0\CCDImageProcess\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\桌面\CCDImageProcess - 2.0\CCDImageProcess\obj\x86\Debug\CCDImageProcess.Form1.resources
+D:\桌面\CCDImageProcess - 2.0\CCDImageProcess\obj\x86\Debug\CCDImageProcess.Properties.Resources.resources
+D:\桌面\CCDImageProcess - 2.0\CCDImageProcess\obj\x86\Debug\CCDImageProcess.ShowOriginalImage.resources
+D:\桌面\CCDImageProcess - 2.0\CCDImageProcess\obj\x86\Debug\CCDImageProcess.ShowProcessedImage.resources
+D:\桌面\CCDImageProcess - 2.0\CCDImageProcess\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\桌面\CCDImageProcess - 2.0\CCDImageProcess\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\桌面\CCDImageProcess\CCDImageProcess - 2.0\CCDImageProcess\obj\x86\Debug\CCDImageProcess.exe
+D:\桌面\CCDImageProcess\CCDImageProcess - 2.0\CCDImageProcess\obj\x86\Debug\CCDImageProcess.pdb
+D:\桌面\CCDImageProcess\CCDImageProcess - 2.0\CCDImageProcess\bin\Debug\CCDImageProcess.exe
+D:\桌面\CCDImageProcess\CCDImageProcess - 2.0\CCDImageProcess\bin\Debug\CCDImageProcess.pdb
+D:\桌面\CCDImageProcess\CCDImageProcess - 2.0\CCDImageProcess\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\桌面\CCDImageProcess\CCDImageProcess - 2.0\CCDImageProcess\obj\x86\Debug\CCDImageProcess.Form1.resources
+D:\桌面\CCDImageProcess\CCDImageProcess - 2.0\CCDImageProcess\obj\x86\Debug\CCDImageProcess.Properties.Resources.resources
+D:\桌面\CCDImageProcess\CCDImageProcess - 2.0\CCDImageProcess\obj\x86\Debug\CCDImageProcess.ShowOriginalImage.resources
+D:\桌面\CCDImageProcess\CCDImageProcess - 2.0\CCDImageProcess\obj\x86\Debug\CCDImageProcess.ShowProcessedImage.resources
+D:\桌面\CCDImageProcess\CCDImageProcess - 2.0\CCDImageProcess\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\桌面\CCDImageProcess\CCDImageProcess - 2.0\CCDImageProcess\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\CCDImageProcess\CCDImageProcess - 2.0\CCDImageProcess\obj\x86\Debug\CCDImageProcess.exe
+C:\Users\Administrator\Desktop\CCDImageProcess\CCDImageProcess - 2.0\CCDImageProcess\obj\x86\Debug\CCDImageProcess.pdb
+C:\Users\Administrator\Desktop\CCDImageProcess\CCDImageProcess - 2.0\CCDImageProcess\bin\Debug\CCDImageProcess.exe
+C:\Users\Administrator\Desktop\CCDImageProcess\CCDImageProcess - 2.0\CCDImageProcess\bin\Debug\CCDImageProcess.pdb
+C:\Users\Administrator\Desktop\CCDImageProcess\CCDImageProcess - 2.0\CCDImageProcess\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\CCDImageProcess\CCDImageProcess - 2.0\CCDImageProcess\obj\x86\Debug\CCDImageProcess.Form1.resources
+C:\Users\Administrator\Desktop\CCDImageProcess\CCDImageProcess - 2.0\CCDImageProcess\obj\x86\Debug\CCDImageProcess.Properties.Resources.resources
+C:\Users\Administrator\Desktop\CCDImageProcess\CCDImageProcess - 2.0\CCDImageProcess\obj\x86\Debug\CCDImageProcess.ShowOriginalImage.resources
+C:\Users\Administrator\Desktop\CCDImageProcess\CCDImageProcess - 2.0\CCDImageProcess\obj\x86\Debug\CCDImageProcess.ShowProcessedImage.resources
+C:\Users\Administrator\Desktop\CCDImageProcess\CCDImageProcess - 2.0\CCDImageProcess\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\CCDImageProcess\CCDImageProcess - 2.0\CCDImageProcess\obj\x86\Debug\GenerateResource.write.1.tlog

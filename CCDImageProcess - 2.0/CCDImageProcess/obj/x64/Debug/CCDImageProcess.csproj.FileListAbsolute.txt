@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\CCDImageProcess\CCDImageProcess - 2.0\CCDImageProcess\bin\x64\Debug\CCDImageProcess.exe
+C:\Users\Administrator\Desktop\CCDImageProcess\CCDImageProcess - 2.0\CCDImageProcess\bin\x64\Debug\CCDImageProcess.pdb
+C:\Users\Administrator\Desktop\CCDImageProcess\CCDImageProcess - 2.0\CCDImageProcess\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\CCDImageProcess\CCDImageProcess - 2.0\CCDImageProcess\obj\x64\Debug\CCDImageProcess.Form1.resources
+C:\Users\Administrator\Desktop\CCDImageProcess\CCDImageProcess - 2.0\CCDImageProcess\obj\x64\Debug\CCDImageProcess.Properties.Resources.resources
+C:\Users\Administrator\Desktop\CCDImageProcess\CCDImageProcess - 2.0\CCDImageProcess\obj\x64\Debug\CCDImageProcess.ShowOriginalImage.resources
+C:\Users\Administrator\Desktop\CCDImageProcess\CCDImageProcess - 2.0\CCDImageProcess\obj\x64\Debug\CCDImageProcess.ShowProcessedImage.resources
+C:\Users\Administrator\Desktop\CCDImageProcess\CCDImageProcess - 2.0\CCDImageProcess\obj\x64\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\CCDImageProcess\CCDImageProcess - 2.0\CCDImageProcess\obj\x64\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\CCDImageProcess\CCDImageProcess - 2.0\CCDImageProcess\obj\x64\Debug\CCDImageProcess.exe
+C:\Users\Administrator\Desktop\CCDImageProcess\CCDImageProcess - 2.0\CCDImageProcess\obj\x64\Debug\CCDImageProcess.pdb
